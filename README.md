@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm William, a full-time Software Engineering student @ McGill 💻📚, Looking for a Summer 2023 Internship 🖥️👨‍💼💼</div>  
+### <div align="center">I'm William, a full-time Software Engineering student @ McGill 💻📚 <br/> Looking for a Summer 2023 Internship 💼</div>  
   
 
 - 🔭 I’m currently working on [Flask CRUD App](https://github.com/wangwiza/flask-crud-app)  
