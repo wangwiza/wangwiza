@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Flask, Git, and Python  
   
 
-- ❓ Ask me about anything related to my favorite video games  
+- ❓ Ask me about anything related to AI and Existential Risk
   
 
 - ⚡ Fun fact: I prefer sprout mole debugging over rubber duck debugging  
