@@ -6,7 +6,7 @@
 ### <div align="center">I'm William, a full-time Software Engineering student @ McGill 💻📚 <br/> Looking for a Summer 2023 Internship 💼</div>  
   
 
-- 🔭 I’m currently working on [Flask CRUD App](https://github.com/wangwiza/flask-crud-app)  
+- 🔭 I’m currently working on [my portfolio website](https://wangwiza.github.io/)  
   
 
-- 🌱 I’m currently learning Flask, Git, and Python  
+- 🌱 I’m currently learning Python for Data Science and Machine Learning
