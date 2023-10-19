@@ -3,10 +3,4 @@
 </div>  
   
 
-### <div align="center">I'm William, a full-time Software Engineering student @ McGill 💻📚 <br/> Looking for a Summer 2023 Internship 💼</div>  
-  
-
-- 🔭 I’m currently working on [my portfolio website](https://wangwiza.github.io/)  
-  
-
-- 🌱 I’m currently learning Python for Data Science and Machine Learning
+### <div align="center">I'm William, a full-time Software Engineering student @ McGill 💻📚 <br/> Looking for a Summer 2024 Internship 💼</div>  
