@@ -1,9 +1,11 @@
 ### I'm William, a full-time Software Engineering student @ McGill 💻📚 
 #### Looking for a Summer 2025 Internship 💼
 
-Previously Software Engineer at [Desjardins](https://www.desjardins.com/en.html);<br>
-Webmaster for the [McGill Chinese Student Society](https://mcss.ca/);<br>
+Work experience:<br>
+Software Engineer Intern - MLOps @ [Desjardins](https://www.desjardins.com/en.html);<br>
+Software Engineer Intern - Healthcare Data @ [CIUSSS NIM](https://www.ciusssnordmtl.ca/);<br>
+Webmaster - Web development @ [McGill Chinese Student Society](https://mcss.ca/);<br>
 
-- ⚙️ I use daily: `.py`, `.R`, `.yaml`, `ipynb`, `.csv`, `.rds`, `.json`
-- 🌍 I'm mostly active within the **Gaming Community**
-- 💬 `ping` me about **Azure**, **music**, **gaming**, **anime**, **design thinking**
+- ⚙️ I use the most: `.py`, `.java`, `.yaml`, `ipynb`, `.dockerfile`, `.json`
+- 🌍 Currently learning C++
+- 💬 `ping` me about **Azure**, **Computer Networks**, **Design Thinking**, **Data Engineering**, **AI/ML**
