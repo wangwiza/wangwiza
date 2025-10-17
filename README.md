@@ -3,9 +3,9 @@
 
 Work experience:<br>
 
-
 Software Engineer Intern - Ring Notifications @ [Amazon](https://www.amazon.jobs/en/teams/ring-blink-and-amazon-key%20);<br>
 Software Engineer Intern - BI Analytics MLOps @ [Desjardins](https://www.desjardins.com/en.html);<br>
+MLOps Engineer (Contract) - Decide CV AI @ [Hoptech](https://hoptech.ca/)<br>
 Software Engineer Intern - Healthcare Tooling @ [CIUSSS NIM](https://www.ciusssnordmtl.ca/);<br>
 Webmaster - Indie @ [McGill Chinese Student Society](https://mcss.ca/);<br>
 
