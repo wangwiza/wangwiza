@@ -3,7 +3,8 @@
 
 Work experience:<br>
 
-2x Software Engineer Intern - Ring Notifications @ [Amazon](https://www.amazon.jobs/en/teams/ring-blink-and-amazon-key%20);<br>
+Software Engineer Intern @ [Patreon](https://www.patreon.com/cw/engineering);<br>
+Software Engineer Intern - Ring Notifications @ [Amazon](https://www.amazon.jobs/en/teams/ring-blink-and-amazon-key%20);<br>
 Software Engineer Intern - BI Analytics MLOps @ [Desjardins](https://www.desjardins.com/en.html);<br>
 Software Engineer Intern - Decide CV AI @ [Hoptech](https://hoptech.ca/)<br>
 Software Engineer Intern - Healthcare Tooling @ [CIUSSS NIM](https://www.ciusssnordmtl.ca/);<br>
